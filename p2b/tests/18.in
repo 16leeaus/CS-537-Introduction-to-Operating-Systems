@@ -1,0 +1,5 @@
+/bin/echo "this should print" > new_2.out
+/bin/rm new_2.out
+/bin/ls new_2.out
+exit
+/bin/echo "this should print"

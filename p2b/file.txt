@@ -1,0 +1,6 @@
+.
+..
+file.txt
+makefile
+mysh
+mysh.c

@@ -1,0 +1,1 @@
+XV6_SCHEDULER	 child 1 (timeslice 10) should finish much earlier than child 0 (timeslice 2)

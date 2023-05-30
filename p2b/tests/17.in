@@ -1,0 +1,5 @@
+/bin/echo "this should print" > new_1.out
+/bin/rm new_1.out
+/bin/ls new_1.out
+exit
+/bin/echo "this should not print"
